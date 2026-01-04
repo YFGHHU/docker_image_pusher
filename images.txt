@@ -4,7 +4,7 @@ node:20-alpine
 neo4j:5.26
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 nginx:alpine
-milvus:v2.5.6
+milvusdb/milvus:v2.5.6
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest

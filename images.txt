@@ -1,10 +1,4 @@
-nginx
-node:20-slim
-node:20-alpine
-neo4j:5.26
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-nginx:alpine
-milvusdb/milvus:v2.5.6
+opencv-python 4.9.x
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
